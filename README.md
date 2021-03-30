@@ -13,11 +13,6 @@
 ## Stats
 
 [![MrTK' GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTK-Dev&show_icons=true&include_all_commits=true&hide=stars&theme=radical)](https://github.com/MrTK-Dev?tab=repositories)
-
-----------
-
-## Languages
-
 [![MrTK' GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTK-Dev&hide=ShaderLab&theme=radical)](https://github.com/MrTK-Dev?tab=repositories)
 
 ----------
