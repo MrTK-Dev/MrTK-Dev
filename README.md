@@ -4,7 +4,7 @@
 
 Salve, fellow visitor! :wave:\
 I am studying physics B.Sc. at JGU. I produce music and write terrible code.\
-Also check out @DoYouCircle which I am a party of!
+Also check out [DoYouCircle](https://github.com/DoYouCircle) which I am a party of!
 
 ## Stats
 
