@@ -1,16 +1,22 @@
 # MrTK - Dev
 
+## About
+
+Salve, fellow visitor! :wave:\
+I am studying physics B.Sc. at JGU. I produce music and write terrible code.\
+Also check out @DoYouCircle which I am a party of!
+
 ## Stats
 
-[![MrTK' GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTK-Dev&show_icons=true&include_all_commits=true&hide=stars&theme=radical)](https://github.com/MrTK-Dev?tab=repositories)
 [![MrTK' GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTK-Dev&hide=ShaderLab&theme=radical)](https://github.com/MrTK-Dev?tab=repositories)
+[![MrTK' GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTK-Dev&show_icons=true&include_all_commits=true&hide=stars&theme=radical)](https://github.com/MrTK-Dev?tab=repositories)
 
 ----------
 
-## Other Repositories
+## Currently active Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DoYouCircle&repo=DoYouAssignment&show_owner=true&theme=radical)](https://github.com/DoYouCircle/DoYouAssignment)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=STAMACODING&repo=RSA-App&show_owner=true&theme=radical)](https://github.com/STAMACODING/RSA-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrTK-Dev&repo=Ex-Nihilo-Nihil&show_owner=true&theme=radical)](https://github.com/MrTK-Dev/Ex-Nihilo-Nihil)
 
 ----------
 
@@ -23,3 +29,4 @@
 <br />
 
 [github]: https://github.com/MrTK-Dev
+[youtube]: https://www.youtube.com/channel/UCnYVYDiK4WanKmgNOCF_0Mg
